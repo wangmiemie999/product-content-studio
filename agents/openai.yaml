@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Content Studio"
+  short_description: "Turn product source material into listings and visuals"
+  default_prompt: "Use $product-content-studio to extract this product information, create a structured listing, and plan suitable showcase images."
